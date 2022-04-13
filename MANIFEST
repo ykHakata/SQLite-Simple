@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/SQLite-Simple.t
+lib/SQLite/Simple.pm
